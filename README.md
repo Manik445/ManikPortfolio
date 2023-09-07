@@ -1,4 +1,4 @@
-# Next.Js Website Tutorial: Stunning Personal Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+ Stunning Personal Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
 For Demo and Final Code checkout following link👇: <br />
 
